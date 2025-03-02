@@ -36,7 +36,8 @@ Check out the live app: [IPL Probability Prediction](https://ipl-winner-probabil
 ## 📊 Dataset
 The dataset used for this project contains historical IPL match data.
 
-Download the dataset from [Dataset](https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set?resource=download)
+Download the dataset from [Dataset](https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set?resource=download).
+
 I used "deliveries.csv" and "match.csv" for my model.
 ## 🛠️ Technologies Used
 Streamlit: For building the interactive web app.
