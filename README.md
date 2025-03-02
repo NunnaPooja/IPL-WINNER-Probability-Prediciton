@@ -45,11 +45,17 @@ Download the dataset from [Dataset](https://www.kaggle.com/datasets/ramjidoolla/
 I used "deliveries.csv" and "match.csv" for my model.
 
 ## 🛠️ Technologies Used
+
 Streamlit: For building the interactive web app.
+
 Render: For Deployment.
+
 Pandas: For data cleaning and processing.
+
 Scikit-learn: For model training and predictions.
+
 Matplotlib & Seaborn: For visualizing data insights.
+
 ## 🧑‍💻 How It Works
 Data Preprocessing: The dataset is cleaned and features are engineered.
 Model Training: A machine learning model predicts match outcomes.
