@@ -2,6 +2,10 @@
 
 A Streamlit-based app to predict IPL match outcomes using machine learning.
 
+## Visualisation
+![image](https://github.com/user-attachments/assets/eb0d87b9-74d6-4312-9833-b8d13a404ce1)
+![image](https://github.com/user-attachments/assets/ac08446c-10f0-47f3-a754-0e71957dda3b)
+
 ---
 
 ## 🚀 Features
@@ -49,9 +53,7 @@ Data Preprocessing: The dataset is cleaned and features are engineered.
 Model Training: A machine learning model predicts match outcomes.
 Interactive Input: Users can select teams, players, and conditions in the app.
 Output Prediction: The app provides a probability-based prediction of the match outcome.
-## Visualisation
-![image](https://github.com/user-attachments/assets/eb0d87b9-74d6-4312-9833-b8d13a404ce1)
-![image](https://github.com/user-attachments/assets/ac08446c-10f0-47f3-a754-0e71957dda3b)
+
 ## 🤝 Contributing
 Contributions are welcome!
 
