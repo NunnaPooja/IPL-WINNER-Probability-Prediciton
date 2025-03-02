@@ -33,3 +33,7 @@ Check out the live app: [IPL Probability Prediction](https://ipl-winner-probabil
 4. **Run the Streamlit app**:
    bash
    streamlit run app.py
+## 📊 Dataset
+The dataset used for this project contains historical IPL match data.
+
+Download the dataset from (https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set?resource=download)
