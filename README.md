@@ -43,8 +43,10 @@ The dataset used for this project contains historical IPL match data.
 Download the dataset from [Dataset](https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set?resource=download).
 
 I used "deliveries.csv" and "match.csv" for my model.
+
 ## 🛠️ Technologies Used
 Streamlit: For building the interactive web app.
+Render: For Deployment.
 Pandas: For data cleaning and processing.
 Scikit-learn: For model training and predictions.
 Matplotlib & Seaborn: For visualizing data insights.
