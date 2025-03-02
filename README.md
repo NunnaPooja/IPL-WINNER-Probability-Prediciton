@@ -53,19 +53,27 @@ Output Prediction: The app provides a probability-based prediction of the match 
 ![image](https://github.com/user-attachments/assets/ac08446c-10f0-47f3-a754-0e71957dda3b)
 ## 🤝 Contributing
 Contributions are welcome!
+
 1.Fork the repository.
+
 2.Create a new branch:
+
 bash
 git checkout -b feature-name
+
 3.Commit your changes:
 bash
 git commit -m "Add a new feature"
+
 4.Push to the branch:
 bash
 git push origin main
+
 5.Submit a pull request.
+
 ## 🙋‍♂️ Acknowledgements
  Inspired by the IPL and cricket enthusiasts around the world.
+ 
  Dataset sourced from [Kaggle](https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set?resource=download).
 
 
