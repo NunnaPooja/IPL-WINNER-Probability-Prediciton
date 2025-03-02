@@ -1,2 +1,26 @@
-# IPL-WINNER-Probability-Winner-Prediciton
-This repository provides a Logistic Regression machine learning model to predict the probability of an IPL team's victory based on real-time or historical match data. Random forest regression gives highest accuracy.Choosen Logistic Regression Model for  easy convinience of Prediciting Probability
+# IPL Probability Prediction
+
+A Streamlit-based app to predict IPL match outcomes using machine learning.
+
+---
+
+## 🚀 Features
+
+- **Match Outcome Prediction**: Predict match results based on historical IPL data.  
+- **Interactive Web App**: Built with Streamlit for an engaging user experience.  
+- **Machine Learning Model**: Powered by a trained ML model for accuracy.  
+- **Visualizations**: Displays statistical insights through graphs and charts.
+
+---
+
+## 🌐 Live Demo
+
+Check out the live app: [IPL Probability Prediction](https://ipl-winner-probability-prediciton-6.onrender.com)  
+
+---
+
+## 📋 Installation
+
+1. **Clone the repository**:  
+   ```bash
+   git clone https://github.com/yourusername/IPL-Probability-Prediction.git
